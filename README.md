@@ -83,3 +83,4 @@ To rebuild the model, download the Olist CSV files into the DATA folder and run 
     models/     saved model and settings
     app/        Streamlit app
     tests/      automatic checks
+**Live demo:** https://olist-late-delivery-riya.streamlit.app
